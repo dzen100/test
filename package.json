@@ -1,0 +1,23 @@
+{
+  "name": "test-raact",
+  "version": "1.0.0",
+  "description": "test react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzen100/test.git"
+  },
+  "keywords": [
+    "test",
+    "stusy"
+  ],
+  "author": "kostia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzen100/test/issues"
+  },
+  "homepage": "https://github.com/dzen100/test#readme"
+}
